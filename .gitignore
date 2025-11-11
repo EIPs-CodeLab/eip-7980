@@ -14,3 +14,5 @@ core-eip-7980
 
 # Go workspace file
 go.work
+
+vendor
