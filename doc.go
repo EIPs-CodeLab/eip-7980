@@ -41,5 +41,9 @@ Usage:
 	if err != nil {
 		// Handle verification failure
 	}
+	
+References:
+  - EIP-7980: https://eips.ethereum.org/EIPS/eip-7980
+  - RFC 8032: https://datatracker.ietf.org/doc/html/rfc8032
 */
 package main
